@@ -119,3 +119,13 @@ Cybersecurity | Security Operations | Incident Response
 Investigated a suspicious email by examining its headers, decoding Base64 content, identifying phishing URLs, and analyzing indicators of compromise using CyberChef.
 
 📁 [View My Phishing Investigation](Phishing-Analysis/Phishing-Analysis-2.md)
+
+
+
+### Phishing Analysis | Blue Team Labs Online (BTLO)
+
+Completed a phishing email investigation involving email header analysis, originating IP identification, reverse DNS lookups, and examination of a suspicious attachment and embedded URL.
+
+**Skills demonstrated:** Email forensics, phishing detection, DNS investigation, URL analysis, and threat identification.
+
+📁 [View Phishing Analysis Investigation Report](Phishing-Analysis/Phishing-Analysis.md)
