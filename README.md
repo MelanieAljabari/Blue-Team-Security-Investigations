@@ -147,3 +147,19 @@ Completed a scenario-based investigation using the MITRE ATT&CK framework to exa
 **Skills demonstrated:** MITRE ATT&CK analysis, threat intelligence research, cloud security, network investigation, and Pass-the-Hash detection concepts.
 
 📁 [View My MITRE ATT&CK Investigation](Threat-Intelligence/ATTACK-Investigation.md)
+
+### 🛡️ MITRE D3FEND | Defensive Security Investigation
+
+Completed a defensive cybersecurity investigation using
+the MITRE D3FEND framework.
+
+Researched defensive techniques, security control
+classifications, Microsoft Sentinel detection mappings,
+file access analysis, and local resource access.
+
+**Skills demonstrated:**
+Defensive security analysis, MITRE framework mapping,
+threat detection concepts, access control, and
+security documentation.
+
+📁 [View My D3FEND Investigation](Threat-Intelligence/D3FEND-Investigation.md)
