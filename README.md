@@ -129,3 +129,13 @@ Completed a phishing email investigation involving email header analysis, origin
 **Skills demonstrated:** Email forensics, phishing detection, DNS investigation, URL analysis, and threat identification.
 
 📁 [View Phishing Analysis Investigation Report](Phishing-Analysis/Phishing-Analysis-1.md)
+
+### 🛡️ Threat Intelligence Assessment | Blue Team Labs Online (BTLO)
+
+Completed a threat intelligence investigation based on a 2022 cybersecurity threat report.
+
+Analyzed critical vulnerabilities, ransomware activity, attacker techniques, and security risks to develop actionable recommendations for a newly established Security Operations Center (SOC).
+
+**Skills demonstrated:** Threat intelligence analysis, vulnerability assessment, MITRE ATT&CK, ransomware analysis, and SOC defensive recommendations.
+
+📁 [View My Threat Intelligence Investigation](Threat-Intelligence/Threat-Intelligence-Report.md)
