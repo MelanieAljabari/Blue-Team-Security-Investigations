@@ -139,3 +139,11 @@ Analyzed critical vulnerabilities, ransomware activity, attacker techniques, and
 **Skills demonstrated:** Threat intelligence analysis, vulnerability assessment, MITRE ATT&CK, ransomware analysis, and SOC defensive recommendations.
 
 📁 [View My Threat Intelligence Investigation](Threat-Intelligence/Threat-Intelligence-Report.md)
+
+### 🔍 MITRE ATT&CK Investigation | Blue Team Labs Online (BTLO)
+
+Completed a scenario-based investigation using the MITRE ATT&CK framework to examine adversary behavior, cloud identity security, suspicious network activity, initial access techniques, and credential-based attacks.
+
+**Skills demonstrated:** MITRE ATT&CK analysis, threat intelligence research, cloud security, network investigation, and Pass-the-Hash detection concepts.
+
+📁 [View My MITRE ATT&CK Investigation](Threat-Intelligence/ATTACK-Investigation.md)
