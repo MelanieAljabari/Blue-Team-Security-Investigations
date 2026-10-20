@@ -163,3 +163,15 @@ threat detection concepts, access control, and
 security documentation.
 
 📁 [View My D3FEND Investigation](Threat-Intelligence/D3FEND-Investigation.md)
+
+### 🏭 Tesla OT Security Investigation
+
+Completed a simulated industrial cybersecurity
+investigation involving Modbus communications,
+unauthorized network activity, holding register
+manipulation, and manufacturing equipment controls.
+
+**Skills:** OT Security, Modbus, Industrial Control
+Systems, Network Analysis, Threat Investigation.
+
+📁 [View Tesla OT Investigation](OT-Security/Tesla-OT-Investigation.md)
