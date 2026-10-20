@@ -111,3 +111,11 @@ My focus is on demonstrating analytical thinking, technical investigation skills
 **Melanie Aljabari**
 
 Cybersecurity | Security Operations | Incident Response
+
+## 🔎 Completed Security Investigations
+
+### Phishing Analysis 2 | Blue Team Labs Online (BTLO)
+
+Investigated a suspicious email by examining its headers, decoding Base64 content, identifying phishing URLs, and analyzing indicators of compromise using CyberChef.
+
+📁 [View My Phishing Investigation](Phishing-Analysis/Phishing-Analysis-2.md)
